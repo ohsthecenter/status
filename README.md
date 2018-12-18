@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+- [ ] Foundation
+  - [ ] Email
+  - [x] GroupMe
+  - [x] Extensions
+- [ ] Contacts
+  - [x] Look Up
+  - [ ] Indexing
+- [ ] Tutor Log
+- [ ] P2P Application
+- [ ] TT Schedule
+- [x] TT Requests
+- [x] Switches & Misses
 
-You can use the [editor on GitHub](https://github.com/ohsthecenter/status/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## History
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2018/12/18
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```diff
+--- 08:16 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 2018/12/17
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ohsthecenter/status/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+```diff
+--- 22:00 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
+    21:33 - Incident summary approved by HR and sent to teachers involved
+    21:24 - Center tutor session counts sent to teachers
+    20:53 - All accumulated session summaries are sent
++++ 20:16 - Error has been fixed
+--- 20:06 - Identified an error that caused center tutor logs not sent between 2018/12/5~17
+```
