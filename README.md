@@ -16,6 +16,7 @@
 ### 2018/12/18
 
 ```diff
+    17:03 - All accumulated session summaries are sent
 --- 08:16 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
 ```
 
