@@ -18,8 +18,8 @@
 ```diff
 +++ 21:46 - Incident resolved
     21:45 - All accumulated session summaries are sent
-    20:09 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
-    17:56 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
+--- 20:09 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
+--- 17:56 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
     17:03 - All accumulated session summaries are sent
 --- 08:16 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
 ```
