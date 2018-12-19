@@ -1,13 +1,13 @@
-- [ ] Foundation
-  - [ ] Email
+- [x] Foundation
+  - [x] Email
   - [x] GroupMe
   - [x] Extensions
 - [ ] Contacts
   - [x] Look Up
   - [ ] Indexing
-- [ ] Tutor Log
-- [ ] P2P Application
-- [ ] TT Schedule
+- [x] Tutor Log
+- [x] P2P Application
+- [x] TT Schedule
 - [x] TT Requests
 - [x] Switches & Misses
 
@@ -16,6 +16,10 @@
 ### 2018/12/18
 
 ```diff
++++ 21:46 - Incident resolved
+    21:45 - All accumulated session summaries are sent
+    20:09 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
+    17:56 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
     17:03 - All accumulated session summaries are sent
 --- 08:16 - Delayed tutor log reports. Expect resuming normal operation by 2018/12/18 21:00
 ```
