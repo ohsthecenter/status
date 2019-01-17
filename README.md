@@ -5,13 +5,21 @@
 - [ ] Contacts
   - [x] Look Up
   - [ ] Indexing
-- [x] Tutor Log
+- [ ] Tutor Log
 - [x] P2P Application
 - [x] TT Schedule
 - [x] TT Requests
 - [x] Switches & Misses
 
 ## History
+
+### 2019/01/16
+
+```diff
+
+--- 23:02 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+    23:00 - Large amount of tutor log reports generated due to 2nd quarter tutor-a-thon
+```
 
 ### 2018/12/18
 
