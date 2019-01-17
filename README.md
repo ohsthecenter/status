@@ -1,17 +1,24 @@
 - [ ] Foundation
-  - [ ] ~~Email~~
+  - [x] Email
   - [x] GroupMe
   - [x] Extensions
 - [ ] Contacts
   - [x] Look Up
   - [ ] ~~Indexing~~
-- [ ] ~~Tutor Log~~
+- [x] Tutor Log
 - [x] P2P Application
 - [x] TT Schedule
 - [x] TT Requests
 - [x] Switches & Misses
 
 ## History
+
+### 2019/01/17
+
+```diff
+
++++ 17:00 - Incident resolved
+```
 
 ### 2019/01/16
 
