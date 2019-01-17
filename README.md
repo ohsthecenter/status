@@ -1,11 +1,11 @@
-- [x] Foundation
-  - [x] Email
+- [ ] Foundation
+  - [ ] ~~Email~~
   - [x] GroupMe
   - [x] Extensions
 - [ ] Contacts
   - [x] Look Up
-  - [ ] Indexing
-- [ ] Tutor Log
+  - [ ] ~~Indexing~~
+- [ ] ~~Tutor Log~~
 - [x] P2P Application
 - [x] TT Schedule
 - [x] TT Requests
