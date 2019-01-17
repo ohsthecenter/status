@@ -1,4 +1,4 @@
-- [ ] Foundation
+- [x] Foundation
   - [x] Email
   - [x] GroupMe
   - [x] Extensions
@@ -16,14 +16,23 @@
 ### 2019/01/17
 
 ```diff
-
-+++ 17:00 - Incident resolved
+    17:15 - Enable Gmail API on all current dependecies of the Foundation library
++++ 17:02 - Incident resolved
+    17:00 - All accumulated session summaries are sent
+--- 14:07 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 13:57 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 10:01 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
 ```
 
 ### 2019/01/16
 
 ```diff
-
+--- 23:37 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 23:29 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 23:21 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 23:12 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 23:07 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
+--- 23:04 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
 --- 23:02 - Delayed tutor log reports. Expect resuming normal operation by 2019/01/17 23:02
     23:00 - Large amount of tutor log reports generated due to 2nd quarter tutor-a-thon
 ```
